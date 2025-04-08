@@ -28,3 +28,11 @@ mvn test
 
 Eduardo Silva  
 [GitHub](https://github.com/eduardosiilvaa)
+
+Agora é só substituir seu `README.md` por esse conteúdo e rodar os comandos:
+
+```bash
+git add README.md
+git commit -m "Corrige fechamento do bloco de código e formatação"
+git push
+
